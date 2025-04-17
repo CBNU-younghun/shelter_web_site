@@ -5,7 +5,7 @@ const teamMembers = [
       image: '/assets/member_younghun.png',
     },
     {
-      name: '사네토 유우나',
+      name: '사네토우 유우나',
       role: 'UI/UX 디자인 및 컴포넌트, 프론트엔드 개발',
       image: '/assets/member_yuna.png',
     },
